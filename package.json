@@ -1,0 +1,23 @@
+{
+  "name": "codeforcary",
+  "version": "0.0.0",
+  "description": "Code for Cary pages and apps",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Guamaso/webdev"
+  },
+  "author": "",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/Guamaso/webdev/issues"
+  },
+  "homepage": "https://github.com/Guamaso/webdev",
+  "devDependencies": {
+    "gulp-connect": "~2.0.5",
+    "gulp": "~3.8.5"
+  }
+}

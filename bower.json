@@ -1,0 +1,26 @@
+{
+  "name": "codeforcary",
+  "version": "0.0.0",
+  "homepage": "https://github.com/Guamaso/webdev",
+  "authors": [
+    "Juan Orozco <juanthedesigner@gmail.com>"
+  ],
+  "description": "Code for Cary Web",
+  "main": "index.html",
+  "keywords": [
+    "CodeForAmerica",
+    "CodeForCary"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.2.0"
+  }
+}
